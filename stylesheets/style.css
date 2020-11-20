@@ -166,7 +166,7 @@ html, body {
     .section .section-title .title-icon {
       /*icon*/
       margin-right: 20px;
-      color: #06A763; }
+      color: #e25e29; }
     .section .section-title img {
       width: 66px;
       padding: 10px;
@@ -214,7 +214,7 @@ p {
   color: #757575; }
 
 a {
-  color: #1976D2; }
+  color: #e25e29; }
   a:hover {
     color: #2988e6;
     text-decoration: none; }
@@ -261,7 +261,7 @@ video {
   overflow: hidden !important; }
 
 .toast {
-  background-color: #1976D2; }
+  background-color: #e25e29; }
 
 /*-------------------------------------------------------------------------------
 #CARD
@@ -305,19 +305,19 @@ video {
       padding: 15px;
       border-bottom: 0; }
       .modal .modal-content .modal-header .close:focus, .modal .modal-content .modal-header .close:hover {
-        color: #1976D2;
+        color: #e25e29;
         opacity: 1; }
     .modal .modal-content .modal-footer {
       border: 0 !important; }
     .modal .modal-content .btn-default {
       border-radius: 0;
-      background-color: #1976D2;
+      background-color: #e25e29;
       color: #fff;
-      border-color: #1976D2; }
+      border-color: #e25e29; }
       .modal .modal-content .btn-default:hover, .modal .modal-content .btn-default:focus {
         color: #fff;
-        background-color: #1976D2;
-        border-color: #1976D2;
+        background-color: #e25e29;
+        border-color: #e25e29;
         border-radius: 0; }
 
 /*-------------------------------------------------------------------------------
@@ -364,11 +364,11 @@ body.scale-effect {
   transform-origin: 50%;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1);
-  background-color: #1976D2;
+  background-color: #e25e29;
   overflow: hidden; }
   .btn-play:hover {
     /*hover effect*/
-    background-color: #1976D2; }
+    background-color: #e25e29; }
   .btn-play i {
     /*icon*/
     font-size: 35px;
@@ -444,7 +444,7 @@ body.scale-effect {
 -------------------------------------------------------------------------------*/
 #loading {
   /*pre-loader*/
-  background-color: #06A763;
+  background-color: #e25e29;
   height: 100%;
   width: 100%;
   position: fixed;
@@ -503,7 +503,7 @@ body.scale-effect {
         vertical-align: top;
         display: inline-block;
         width: 100%;
-        background-color: #1976D2;
+        background-color: #e25e29;
         animation: loader-inner 2s infinite ease-in;
         -webkit-animation: loader-inner 2s infinite ease-in; }
 @-webkit-keyframes loader {
@@ -577,7 +577,7 @@ body.scale-effect {
   top: 0;
   z-index: 10;
   text-align: left;
-  background: #06A763; }
+  background: #e25e29; }
   #home .menu a {
     /*menu links*/
     margin-left: 30px;
@@ -591,10 +591,10 @@ body.scale-effect {
     text-transform: uppercase; }
     #home .menu a:hover {
       /*link option hover color*/
-      color: #1976D2; }
+      color: #e25e29; }
     #home .menu a:active {
       /*option active color*/
-      color: #1976D2; }
+      color: #e25e29; }
   #home .menu i {
     /*menu icon*/
     padding: 7px; }
@@ -612,7 +612,7 @@ body.scale-effect {
     /*menu logo*/
     height: 200px;
     margin-top: -14px;
-    background: #06A763; }
+    background: #e25e29; }
     #home .menu .logo-flat img {
       /*logo image*/
       width: 100%;
@@ -658,7 +658,7 @@ body.scale-effect {
     #home #menuToggle .toggle-normal i {
       font-size: 31px;
       padding: 4px;
-      color: #1976D2; }
+      color: #e25e29; }
     #home #menuToggle .toggle-normal .top-bar {
       position: absolute;
       right: 0;
@@ -717,7 +717,7 @@ body.scale-effect {
     overflow: hidden;
     transition: height 1s, color 1s, margin 1s;
     z-index: 1;
-    background: #06A763;
+    background: #e25e29;
     margin: -33px 3px 0 0; }
     #v-card-holder #v-card .info-headings {
       /*basic infos*/
@@ -814,11 +814,11 @@ body.scale-effect {
         position: absolute;
         border-style: solid;
         border-width: 400px 0 0 100px;
-        border-color: rgba(223, 50, 50, 0) transparent transparent #06A763; }
+        border-color: rgba(223, 50, 50, 0) transparent transparent #e25e29; }
       #v-card-holder #v-card #profile .add-btn {
         /*plus button*/
         position: absolute;
-        background-color: #1976D2;
+        background-color: #e25e29;
         top: 20%;
         right: 86%;
         overflow: hidden; }
@@ -910,7 +910,7 @@ body.scale-effect {
     #about .about-btn .btn {
       /*button style*/
       margin: 7px 7px;
-      background: #06A763;
+      background: #e25e29;
       color: #fff;
       width: 180px;
       border-radius: 2px; }
@@ -934,7 +934,7 @@ body.scale-effect {
     height: 99.5%;
     width: 4px;
     opacity: 0.3;
-    background: #06A763; }
+    background: #e25e29; }
 
 #timeline-experience {
   /*experience section*/
@@ -949,7 +949,7 @@ body.scale-effect {
     height: 99.5%;
     width: 4px;
     opacity: 0.3;
-    background: #06A763; }
+    background: #e25e29; }
 
 .timeline-block {
   /*timeline block*/
@@ -977,7 +977,7 @@ body.scale-effect {
         color: #12579b; }
   .timeline-block .timeline-dot {
     /*timeline dot*/
-    background: #06A763;
+    background: #e25e29;
     width: 50px;
     height: 50px;
     border-radius: 100%;
@@ -1008,7 +1008,7 @@ body.scale-effect {
     margin-right: 0;
     z-index: 1;
     margin-bottom: 5px;
-    border-left: 5px solid #1976D2; }
+    border-left: 5px solid #e25e29; }
     .timeline-block .timeline-content::before {
       /*horizontal line*/
       content: '';
@@ -1019,7 +1019,7 @@ body.scale-effect {
       left: 100%;
       z-index: -2;
       opacity: 0.4;
-      background: #06A763; }
+      background: #e25e29; }
     .timeline-block .timeline-content::after {
       /*horizontal line*/
       clear: both;
@@ -1050,7 +1050,7 @@ body.scale-effect {
     margin-left: -2px;
     height: 77.1%;
     opacity: 0.4;
-    background: #06A763; }
+    background: #e25e29; }
 
   #timeline-experience::before {
     /*vertical line for experience in min width 768 */
@@ -1058,7 +1058,7 @@ body.scale-effect {
     margin-left: -2px;
     height: 69.1%;
     opacity: 0.4;
-    background: #06A763; }
+    background: #e25e29; }
 
   .timeline-block {
     /*timeline block in min width 768*/
@@ -1095,7 +1095,7 @@ body.scale-effect {
 -------------------------------------------------------------------------------*/
 /*skills section*/
 #skills .card {
-  background: #06A763;
+  background: #e25e29;
   /*skills title*/ }
   #skills .card .skills-title {
     /*skills title*/
@@ -1171,7 +1171,7 @@ body.scale-effect {
   #portfolios #portfolios-card .nav-tabs > li.active > a, #portfolios #portfolios-card .nav-tabs > li.active > a:hover, #portfolios #portfolios-card .nav-tabs > li.active > a:focus {
     /*tabs style bootstrap*/
     border: 0;
-    border-bottom: 5px solid #1976D2;
+    border-bottom: 5px solid #e25e29;
     background-color: transparent;
     /* outline: 0;*/ }
   #portfolios #portfolios-card .tab-content {
@@ -1303,7 +1303,7 @@ body.scale-effect {
         /*hover effect*/ }
         #portfolios #portfolios-card .tab-content figure.port-effect-up:hover h2 {
           /*hover effect for portfolio header*/
-          color: #1976D2;
+          color: #e25e29;
           -webkit-transform: translate3d(0, -50%, 0) translate3d(0, -40px, 0);
           transform: translate3d(0, -50%, 0) translate3d(0, -40px, 0); }
     #portfolios #portfolios-card .tab-content figure.port-effect-scale {
@@ -1355,7 +1355,7 @@ body.scale-effect {
       #portfolios #portfolios-card .tab-content figure.port-effect-scale:hover {
         /*hover effect*/ }
         #portfolios #portfolios-card .tab-content figure.port-effect-scale:hover h2 {
-          color: #1976D2;
+          color: #e25e29;
           -webkit-transform: translate3d(0, -50%, 0) translate3d(0, -40px, 0);
           transform: translate3d(0, -50%, 0) translate3d(0, -40px, 0);
           opacity: 1; }
@@ -1370,7 +1370,7 @@ body.scale-effect {
           -webkit-transform: scale(1.2);
           transform: scale(1.2); }
 #portfolios .btn-large {
-  color: #1976D2 !important;
+  color: #e25e29 !important;
   background: #f5f5f5 !important;
   margin-bottom: 10px !important; }
 @keyframes InLeft {
@@ -1665,7 +1665,7 @@ POPUP ANIMATIONS
       /*interest icon*/
       display: block;
       color: #fff;
-      background: #06A763;
+      background: #e25e29;
       height: 105px; }
       #interest .card .box .interest-icon i {
         /*icon*/
@@ -1677,7 +1677,7 @@ POPUP ANIMATIONS
     #interest .card .box .interest-icon-even {
       /*interest icon even*/
       display: block;
-      color: #06A763;
+      color: #e25e29;
       height: 105px;
       margin-right: -1px; }
       #interest .card .box .interest-icon-even i {
@@ -1697,14 +1697,14 @@ POPUP ANIMATIONS
 -------------------------------------------------------------------------------*/
 /*testimonials section*/
 #testimonials #testimonials-card {
-  background: #06A763; }
+  background: #e25e29; }
   #testimonials #testimonials-card .swiper-pagination .swiper-pagination-bullet {
     width: 12px;
     height: 12px;
     border-radius: 0;
-    border: 2px solid #1976D2; }
+    border: 2px solid #e25e29; }
   #testimonials #testimonials-card .swiper-pagination .swiper-pagination-bullet-active {
-    background: #1976D2;
+    background: #e25e29;
     opacity: 1; }
   #testimonials #testimonials-card .client-img {
     /*image class*/
@@ -1731,7 +1731,7 @@ POPUP ANIMATIONS
       content: "\201C";
       font-family: Georgia, serif;
       font-weight: bold;
-      color: #1976D2;
+      color: #e25e29;
       font-size: 2em;
       line-height: .1em;
       margin-right: 0;
@@ -1796,7 +1796,7 @@ POPUP ANIMATIONS
   #pricing-table .card .pricing-top {
     /*pricing details*/
     width: 100%;
-    background: #06A763;
+    background: #e25e29;
     color: #fff;
     padding: 30px 0 40px 0;
     text-align: center; }
@@ -1826,7 +1826,7 @@ POPUP ANIMATIONS
       line-height: 1.7; }
   #pricing-table .card .btn {
     /*purchase button*/
-    background: #06A763;
+    background: #e25e29;
     margin-bottom: 5px;
     color: #fff;
     border-radius: 2px; }
@@ -1968,7 +1968,7 @@ POPUP ANIMATIONS
       top: 0.5rem; }
   #contact .card .card-content .btn {
     /*send button*/
-    background-color: #06A763;
+    background-color: #e25e29;
     width: 115px;
     color: #fff;
     border-radius: 2px;
@@ -1984,7 +1984,7 @@ POPUP ANIMATIONS
   height: 4px;
   display: block;
   width: 100%;
-  background-color: #1976D2;
+  background-color: #e25e29;
   border-radius: 0;
   margin: -4px 0 0; }
 #contact .card .indeterminate {
@@ -1998,7 +1998,7 @@ POPUP ANIMATIONS
     width: 36px;
     height: 36px;
     border-radius: 50% 50% 50% 0;
-    background: #1976D2;
+    background: #e25e29;
     position: absolute;
     -webkit-transform: rotate(-45deg) !important;
     transform: rotate(-45deg) !important;
@@ -2015,11 +2015,11 @@ POPUP ANIMATIONS
     height: 300px; } }
 #contact input:not([type]):focus:not([readonly]) + label, #contact input[type=text]:focus:not([readonly]) + label, #contact input[type=password]:focus:not([readonly]) + label, #contact input[type=email]:focus:not([readonly]) + label, #contact input[type=url]:focus:not([readonly]) + label, #contact input[type=time]:focus:not([readonly]) + label, #contact input[type=date]:focus:not([readonly]) + label, #contact input[type=datetime-local]:focus:not([readonly]) + label, #contact input[type=tel]:focus:not([readonly]) + label, #contact input[type=number]:focus:not([readonly]) + label, #contact input[type=search]:focus:not([readonly]) + label, #contact textarea.materialize-textarea:focus:not([readonly]) + label {
   /*materialize form*/
-  color: #1976D2; }
+  color: #e25e29; }
 #contact input:not([type]):focus:not([readonly]), #contact input[type=text]:focus:not([readonly]), #contact input[type=password]:focus:not([readonly]), #contact input[type=email]:focus:not([readonly]), #contact input[type=url]:focus:not([readonly]), #contact input[type=time]:focus:not([readonly]), #contact input[type=date]:focus:not([readonly]), #contact input[type=datetime-local]:focus:not([readonly]), #contact input[type=tel]:focus:not([readonly]), #contact input[type=number]:focus:not([readonly]), #contact input[type=search]:focus:not([readonly]), #contact textarea.materialize-textarea:focus:not([readonly]) {
   /*materialize form*/
-  border-bottom: 1px solid #1976D2;
-  box-shadow: 0 1px 0 0 #1976D2; }
+  border-bottom: 1px solid #e25e29;
+  box-shadow: 0 1px 0 0 #e25e29; }
 #contact input:not([type]), #contact input[type=text], #contact input[type=password], #contact input[type=email], #contact input[type=url], #contact input[type=time], #contact input[type=date], #contact input[type=datetime-local], #contact input[type=tel], #contact input[type=number], #contact input[type=search], #contact textarea.materialize-textarea {
   /*materialize form*/
   background-color: transparent;
@@ -2051,8 +2051,8 @@ POPUP ANIMATIONS
   width: 45px;
   cursor: pointer;
   font-size: 28px;
-  background: #1976D2;
-  border: 1px solid #1976D2;
+  background: #e25e29;
+  border: 1px solid #e25e29;
   text-align: center;
   position: fixed;
   bottom: 21px;
@@ -2082,8 +2082,8 @@ footer {
   width: 45px;
   cursor: pointer;
   font-size: 28px;
-  background: #1976D2;
-  border: 1px solid #1976D2;
+  background: #e25e29;
+  border: 1px solid #e25e29;
   text-align: center;
   position: fixed;
   top: 21px;
@@ -2115,7 +2115,7 @@ footer {
     position: relative;
     color: #fff; }
     .single-page .section-title i {
-      color: #06A763;
+      color: #e25e29;
       padding: 12px; }
     .single-page .section-title img {
       width: 66px;
@@ -2142,14 +2142,14 @@ footer {
             width: 12px;
             height: 12px;
             border-radius: 0;
-            border: 2px solid #1976D2; }
+            border: 2px solid #e25e29; }
           .single-page .post .post-image .swiper-container .swiper-pagination .swiper-pagination-bullet-active {
-            background: #1976D2;
+            background: #e25e29;
             opacity: 1; }
     .single-page .post header {
       /*headings*/
       padding: 20px;
-      background: #06A763;
+      background: #e25e29;
       color: #fff; }
       .single-page .post header h3 {
         margin: 0 0 15px;
@@ -2171,7 +2171,7 @@ footer {
       /*post body*/
       padding: 20px; }
       .single-page .post .post-body .client-info {
-        border-left: 4px solid #1976D2;
+        border-left: 4px solid #e25e29;
         padding: 0 0 0 6px; }
         .single-page .post .post-body .client-info p {
           margin: 0; }
@@ -2181,7 +2181,7 @@ footer {
   .single-page .widget-holder {
     /*side widget stuffs*/ }
     .single-page .widget-holder h4 {
-      background: #06A763;
+      background: #e25e29;
       color: #fff;
       font-size: 24px;
       padding: 15px; }
@@ -2217,7 +2217,7 @@ footer {
           .single-page .widget-holder .widget .Media .Media-body:last-child {
             margin-bottom: 0; }
         .single-page .widget-holder .widget .Media:hover {
-          box-shadow: inset -3px -3px 0px 1px #1976D2; }
+          box-shadow: inset -3px -3px 0px 1px #e25e29; }
       .single-page .widget-holder .widget .categories li {
         display: inline; }
       .single-page .widget-holder .widget hr {
@@ -2226,7 +2226,7 @@ footer {
       .single-page .widget-holder .widget .chip {
         /*chip for tags*/
         margin: 5px;
-        background-color: #1976D2;
+        background-color: #e25e29;
         color: #fff; }
   .single-page .chip {
     /*chip for tags*/
